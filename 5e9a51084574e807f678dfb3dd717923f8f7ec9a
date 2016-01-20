@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_ec95df40",
+        "filename": "pom.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1007274
+      },
+      "writtenOn": "2016-01-20T16:59:15Z",
+      "side": 1,
+      "message": "You must be kidding me",
+      "revId": "5e9a51084574e807f678dfb3dd717923f8f7ec9a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
