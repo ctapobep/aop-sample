@@ -16,6 +16,23 @@
       "revId": "9a32b05cbd1d87e868ce5fd9e125a3ecc40764c8",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa81d914_d95b7c2c",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1007274
+      },
+      "writtenOn": "2016-01-21T10:09:14Z",
+      "side": 0,
+      "message": "WTF",
+      "revId": "9a32b05cbd1d87e868ce5fd9e125a3ecc40764c8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
