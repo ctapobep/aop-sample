@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_393578da",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1007274
+      },
+      "writtenOn": "2016-01-21T10:06:43Z",
+      "side": 0,
+      "message": "WTF",
+      "revId": "9a32b05cbd1d87e868ce5fd9e125a3ecc40764c8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
