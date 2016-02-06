@@ -10,7 +10,7 @@ public class Main {
         tester.doTheNeedful();
         tester.doTheNeedful();
 
-        Employee devops = context.getBean("devops", Employee.class);
-        devops.doTheNeedful();
+        Employee ops = context.getBean("ops", Employee.class);
+        ops.doTheNeedful();
     }
 }
